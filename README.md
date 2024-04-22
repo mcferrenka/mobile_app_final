@@ -6,3 +6,4 @@ PROJECT: Create an app in React Native that will enable two types of experiences
 
 PICTURES: 
 images/Menu.jpg
+images/Search.jpg
