@@ -7,6 +7,10 @@ Create an app in React Native that will enable two types of experiences: donate 
 
 # PICTURES: 
 
+Located in main branch
+
+# PICTURES: 
+
 **LOGIN SCREEN - WILL TAKE THEM EITHER TO THE DONATE OR SEARCH SCREEN DEPENDING ON THEIR SELECTION**
 
 ![Alt text](images/Login.jpg)
