@@ -5,3 +5,4 @@ PROJECT: Create an app in React Native that will enable two types of experiences
 2. When shopping you can search on those same filters
 
 PICTURES: 
+images/Menu.jpg
